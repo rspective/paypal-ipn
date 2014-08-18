@@ -17,7 +17,7 @@
   "bugs": {
     "web": "https://github.com/andzdroid/paypal-ipn/issues"
   },
-  "repositories": [
+  "repository": [
     {
       "type": "git",
       "url": "git@github.com:andzdroid/paypal-ipn.git"
